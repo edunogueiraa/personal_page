@@ -1,0 +1,10 @@
+.Foto-img {
+  width: 223px;
+  height: 223px;
+  border-radius: 50%;
+}
+
+.Foto-header {
+  padding-top: 5%;
+  text-align: center;
+}
