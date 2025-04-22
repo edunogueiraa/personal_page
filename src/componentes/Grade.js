@@ -1,5 +1,5 @@
 import Caixa from './Caixa'
-import './Grade.css';
+import './style/Grade.css';
 
 function Grade(){
   return (

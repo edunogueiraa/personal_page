@@ -1,5 +1,5 @@
-import foto from '../src/img/Foto.jpg';
-import './Foto.css';
+import foto from '../img/Foto.jpg';
+import './style/Foto.css';
 
 function Foto() {
   return (

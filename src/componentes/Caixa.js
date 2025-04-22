@@ -1,4 +1,4 @@
-import './Caixa.css';
+import './style/Caixa.css';
 
 function Caixa() {
     return (
